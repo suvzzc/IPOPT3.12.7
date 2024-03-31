@@ -1,0 +1,91 @@
+--2022-10-10 15:30:52--  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在解析主机 mumps.enseeiht.fr (mumps.enseeiht.fr)... 147.127.176.144
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 15:33:02--  (尝试次数： 2)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 15:35:15--  (尝试次数： 3)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 15:37:29--  (尝试次数： 4)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 15:39:43--  (尝试次数： 5)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 15:41:59--  (尝试次数： 6)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 15:44:15--  (尝试次数： 7)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (连接超时)。
+重试中。
+
+--2022-10-10 15:59:38--  (尝试次数： 8)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+正在解析主机 mumps.enseeiht.fr (mumps.enseeiht.fr)... 147.127.176.144
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 16:04:07--  (尝试次数： 9)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 16:06:25--  (尝试次数：10)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 16:08:45--  (尝试次数：11)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 16:11:05--  (尝试次数：12)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 16:13:24--  (尝试次数：13)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 16:15:43--  (尝试次数：14)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 16:18:03--  (尝试次数：15)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 16:20:22--  (尝试次数：16)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 16:22:41--  (尝试次数：17)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (连接超时)。
+重试中。
+
+--2022-10-10 16:38:07--  (尝试次数：18)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+正在解析主机 mumps.enseeiht.fr (mumps.enseeiht.fr)... 147.127.176.144
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (连接超时)。
+重试中。
+
+--2022-10-10 16:55:42--  (尝试次数：19)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+正在解析主机 mumps.enseeiht.fr (mumps.enseeiht.fr)... 147.127.176.144
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 失败：连接超时。
+重试中。
+
+--2022-10-10 17:00:14--  (尝试次数：20)  http://mumps.enseeiht.fr/MUMPS_4.10.0.tar.gz
+正在连接 mumps.enseeiht.fr (mumps.enseeiht.fr)|147.127.176.144|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 读取文件头错误 (连接超时)。
+放弃操作。
+
